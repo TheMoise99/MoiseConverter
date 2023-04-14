@@ -11,7 +11,7 @@ Open the LastOS_Exceptions folder with your favorite IDE and press play to start
 
 Needed:
 
-Pandoc
-Latex
-Java
+Pandoc, 
+Latex, 
+Java, 
 JavaFX lib
